@@ -1,5 +1,5 @@
-<H3>Enter Name D VERGIN JENIFER</H3>
-<H3>Enter Register No. 212223240174</H3>
+<H3>Enter Name:  D VERGIN JENIFER</H3>
+<H3>Enter Register No.:  212223240174</H3>
 <H3>Experiment 2</H3>
 <H3>Date</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
@@ -62,6 +62,8 @@ print(result2)
 
 ## Output :
 ![image](https://github.com/user-attachments/assets/e3f6a9ac-1845-4f6a-bd20-33c7c9cf6579)
+
+
 ![image](https://github.com/user-attachments/assets/074c2ba2-5b3c-4ad8-ac4b-a07d2c9aab2b)
 
 
